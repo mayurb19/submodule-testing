@@ -1,0 +1,3 @@
+[submodule "submodules/pipeline"]
+	path = submodules/pipeline
+	url = https://github.com/mayurb19/pipeline.git
